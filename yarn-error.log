@@ -1,0 +1,26 @@
+Arguments: 
+  /usr/bin/node /usr/bin/yarn add solc
+
+PATH: 
+  /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Python310/Scripts/:/mnt/c/Python310/:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Program Files/Git/cmd:/mnt/c/Program Files/nodejs/:/mnt/c/ProgramData/chocolatey/bin:/mnt/c/Program Files/OpenJDK/openjdk-11.0.16_8/bin:/mnt/c/Users/ducth/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/ducth/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Users/ducth/AppData/Roaming/npm:/mnt/c/Users/ducth/AppData/Local/Android/Sdk/platform-tools:/snap/bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  16.17.0
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: EPERM: operation not permitted, copyfile '/home/ducthai/.cache/yarn/v6/npm-solc-0.8.16-120f992357e236d99e6cf3445bf2c2dca3384f96-integrity/node_modules/solc/README.md' -> '/mnt/c/Users/ducth/git_repos/blockchain/ether-simple/node_modules/solc/README.md'
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
